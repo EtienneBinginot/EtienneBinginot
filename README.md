@@ -1,16 +1,102 @@
-## Hi there 👋
+<p align="center">
+  <b>Etienne Binginot</b><br>
+  Full-Stack Engineer | Agentic Development | DevSecOps
+</p>
 
-<!--
-**EtienneBinginot/EtienneBinginot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/etienne-binginot/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.root-me.org/EtienneB-763658?lang=fr"><img src="https://img.shields.io/badge/Root--Me-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSIjOTFCMzAyIi8+PC9zdmc+" alt="Root-Me"></a>
+  <a href="https://github.com/EtienneBinginot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><b>About me</b></p>
+
+<p>Developer for <b>10 years</b>. I started in middle school building games on a Casio calculator in BASIC — a full RPG with a graphics engine, a Pokemon-like game, all on a 64x128 pixel screen. That's where it all began.</p>
+
+<p>Since then, I've worked with C, Java, Python, C#, TypeScript, OCaml, PHP... Full-stack applications, algorithms, security. Today, I'm a Full-Stack Developer at <b>Blue Soft</b> in Rouen, France, using <b>AI agents</b> to orchestrate my work and push multiple fronts forward in parallel — a natural evolution after years of figuring out how to ship more and ship better.</p>
+
+<p>On the security side, I'm an active member of <b>Root-Me</b> (username <b>EtienneB</b>), and I build end-to-end DevSecOps pipelines with SonarQube integration, metrics collection, and automated deployment.</p>
+
+<br>
+
+<p><b>Technical skills</b></p>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<b>Languages</b><br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white" alt="OCaml">
+</td>
+<td align="center" width="33%">
+<b>Frameworks & tools</b><br><br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</td>
+<td align="center" width="33%">
+<b>AI & Agentic Dev</b><br><br>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI Agents">
+<img src="https://img.shields.io/badge/MCP_Servers-000000?style=flat-square&logo=anthropic&logoColor=white" alt="MCP Servers">
+<img src="https://img.shields.io/badge/Prompt_Engineering-4285F4?style=flat-square&logo=google&logoColor=white" alt="Prompt Engineering">
+</td>
+</tr>
+</table>
+
+<br>
+
+<p><b>Agentic Development</b></p>
+
+<pre>
+  Architect  ──────>  AI Agents  ──────>  Code, Tests, Deploy
+     me            orchestration          multiplied output
+</pre>
+
+<p>My daily workflow relies on orchestrating AI agents to push multiple fronts forward simultaneously. I use <b>Claude Code</b>, <b>skills</b>, <b>hooks</b>, and <b>MCP servers</b> to automate repetitive tasks and focus on design and architecture.</p>
+
+<p><b>What it changes in practice:</b></p>
+<ul>
+<li>Multiple features in parallel via specialized agents</li>
+<li>Code review, refactoring, and tests generated by AI</li>
+<li>CI/CD pipelines designed with AI assistance</li>
+<li>More time for architectural thinking and security</li>
+</ul>
+
+<br>
+
+<p><b>Cybersecurity - Root-Me</b></p>
+
+<p align="center">
+  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=EtienneB-763658&gstats=show&style=dark" alt="Root-Me Stats">
+  <br>
+  Active member of the Root-Me community
+</p>
+
+<p>Hands-on challenges in offensive and defensive security: web, forensics, cracking, network, steganography, and more.</p>
+
+<br>
+
+<p><b>GitHub Stats</b></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EtienneBinginot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBinginot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+<br>
+
+<p align="center"><i>Based in Rouen, France | Blue Soft | Always learning</i></p>
