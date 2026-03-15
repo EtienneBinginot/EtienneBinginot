@@ -4,8 +4,6 @@
 
 **Full-Stack Engineer | Agentic Development | DevSecOps**
 
-*Je conçois, l'IA exécute.*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etienne-binginot/)
 [![Root-Me](https://img.shields.io/badge/Root--Me-Top%201400-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSIjOTFCMzAyIi8+PC9zdmc+)](https://www.root-me.org/EtienneB)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EtienneBinginot)
@@ -16,7 +14,9 @@
 
 ## Qui suis-je ?
 
-Developpeur Full-Stack chez **Blue Soft** a Rouen, j'orchestre des agents IA au quotidien pour demultiplier ma capacite de production. Mon approche : concevoir l'architecture et la strategie, deleguer l'execution aux agents, garder le recul pour aller plus loin que ce qu'un developpeur seul pourrait produire.
+Developpeur depuis **10 ans**. J'ai commence au college en creant des jeux sur calculatrice Casio en BASIC — un RPG complet avec moteur graphique, un Pokemon-like, le tout sur un ecran de 64x128 pixels. C'est la que tout a demarre.
+
+Depuis, j'ai traverse le C, Java, Python, C#, TypeScript, OCaml, PHP... Des applications full-stack, de l'algorithmique, de la securite. Aujourd'hui, developpeur Full-Stack chez **Blue Soft** a Rouen, j'utilise des **agents IA** pour orchestrer mon travail et faire avancer plusieurs fronts en parallele — une evolution naturelle apres des annees a chercher comment produire plus et mieux.
 
 Cote securite, je suis membre actif de **Root-Me** (top ~1400 mondial, pseudo **EtienneB**), et je construis des pipelines DevSecOps completes avec integration SonarQube, collecte de metriques et deploiement automatise.
 
@@ -80,22 +80,6 @@ Mon workflow quotidien repose sur l'orchestration d'agents IA pour faire avancer
 
 ---
 
-## DevSecOps
-
-```
-Code  -->  SonarQube  -->  Tests  -->  Build  -->  Deploy
- |            |              |           |           |
- v            v              v           v           v
-Qualite    Securite     Fiabilite    Docker     Automatise
-```
-
-- **SonarQube** : Integration dans les pipelines pour l'analyse statique et la detection de vulnerabilites
-- **Docker** : Containerisation et configuration d'environnements reproductibles
-- **CI/CD** : Pipelines automatisees de bout en bout
-- **Metriques** : Collecte et suivi de la qualite du code
-
----
-
 ## Cybersecurite - Root-Me
 
 <div align="center">
@@ -107,45 +91,6 @@ Qualite    Securite     Fiabilite    Docker     Automatise
 </div>
 
 Challenges pratiques en securite offensive et defensive : web, forensic, cracking, reseau, steganographie, et plus encore.
-
----
-
-## Projets notables
-
-### Applications Full-Stack
-
-| Projet | Stack | Description |
-|--------|-------|-------------|
-| [**PhysiGames**](https://github.com/EtienneBinginot/PhysiGames.Backend) | Java / TypeScript | Application de jeux avec backend Spring Boot et frontend moderne |
-| [**Anomalia**](https://github.com/EtienneBinginot/Anomalia.Backend) | Python / HTML | Projet de detection d'anomalies avec backend Python |
-| [**Bibliotheca**](https://github.com/EtienneBinginot/Bibliotheca.Backend) | C# / TypeScript | Application de gestion de bibliotheque (.NET + Angular) |
-| [**Agora**](https://github.com/EtienneBinginot/Agora) | PHP | Plateforme web de jeux de societe en ligne (6 qui prend, Splendor, Glenmore, Myrmes) |
-
-### Algorithmique & IA
-
-| Projet | Langage | Description |
-|--------|---------|-------------|
-| [**Hex-Game**](https://github.com/EtienneBinginot/Hex-Game) | Python | Jeu de Hex contre une IA (Minimax, Alpha-Beta, SSS*) |
-| [**TSP Algorithms**](https://github.com/EtienneBinginot/Algorithms-Travelling-Salesman-Problem) | Python | 5 algorithmes d'approximation + solveur exact pour le probleme du voyageur de commerce |
-| [**Aho-Corasick**](https://github.com/EtienneBinginot/Aho-Corasick-Algorithm) | C | Implementation de l'algorithme Aho-Corasick avec generateur de texte |
-| [**Red-Black Trees**](https://github.com/EtienneBinginot/Black-Red-Tree-Intervals) | OCaml | Implementation de foncteurs d'arbres rouge-noir et module d'intervalles |
-
-### Securite & DevOps
-
-| Projet | Stack | Description |
-|--------|-------|-------------|
-| [**SonarQube Docker**](https://github.com/EtienneBinginot/Sonarqube_docker_config) | Docker | Configuration Docker pour SonarQube |
-| [**XDEBUG Exploit**](https://github.com/EtienneBinginot/XDEBUG-Exploit) | Python | Exploit RCE pour XDEBUG 2.5.5 (usage educatif) |
-| [**WorldWatcher**](https://github.com/EtienneBinginot/WorldWatcher) | Python | Outil de surveillance et monitoring |
-| [**Discord Bot**](https://github.com/EtienneBinginot/Discord-Bot-ServerUp) | Python | Bot Discord pour la surveillance de serveurs |
-
-### Premiers projets (passion depuis toujours)
-
-| Projet | Langage | Description |
-|--------|---------|-------------|
-| [**RPG Casio**](https://github.com/EtienneBinginot/RPG-Casio) | BASIC | Jeu RPG sur calculatrice Casio avec moteur graphique, combats, crafts |
-| [**Pokemon Casio**](https://github.com/EtienneBinginot/Pokemon-Casio) | BASIC | Pokemon-like sur calculatrice Casio |
-| [**Poglemon**](https://github.com/EtienneBinginot/Poglemon-Python) | Python, C, Java | Pokemon-like evolue sur 3 langages (moteur graphique, combats, sauvegarde) |
 
 ---
 
@@ -163,6 +108,6 @@ Challenges pratiques en securite offensive et defensive : web, forensic, crackin
 
 <div align="center">
 
-*Basé à Rouen | Blue Soft | Toujours en train d'apprendre*
+*Base a Rouen | Blue Soft | Toujours en train d'apprendre*
 
 </div>
