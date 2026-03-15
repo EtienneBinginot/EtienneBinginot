@@ -5,12 +5,12 @@
 **Full-Stack Engineer | Agentic Development | DevSecOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etienne-binginot/)
-[![Root-Me](https://img.shields.io/badge/Root--Me-Top%201400-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSIjOTFCMzAyIi8+PC9zdmc+)](https://www.root-me.org/EtienneB)
+[![Root-Me](https://img.shields.io/badge/Root--Me-Top%201400-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSIjOTFCMzAyIi8+PC9zdmc+)](https://www.root-me.org/EtienneB-763658?lang=fr)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EtienneBinginot)
 
 </div>
 
----
+<br>
 
 ## About me
 
@@ -20,7 +20,7 @@ Since then, I've worked with C, Java, Python, C#, TypeScript, OCaml, PHP... Full
 
 On the security side, I'm an active member of **Root-Me** (top ~1400 worldwide, username **EtienneB**), and I build end-to-end DevSecOps pipelines with SonarQube integration, metrics collection, and automated deployment.
 
----
+<br>
 
 ## Technical skills
 
@@ -61,7 +61,7 @@ On the security side, I'm an active member of **Root-Me** (top ~1400 worldwide, 
 </tr>
 </table>
 
----
+<br>
 
 ## Agentic Development
 
@@ -78,13 +78,13 @@ My daily workflow relies on orchestrating AI agents to push multiple fronts forw
 - CI/CD pipelines designed with AI assistance
 - More time for architectural thinking and security
 
----
+<br>
 
 ## Cybersecurity - Root-Me
 
 <div align="center">
 
-![Root-Me Stats](https://root-me-diff.vercel.app/rm-gh?nickname=EtienneB&gstats=show&style=dark)
+![Root-Me Stats](https://root-me-diff.vercel.app/rm-gh?nickname=EtienneB-763658&gstats=show&style=dark)
 
 **Top ~1400 worldwide** | Active member of the Root-Me community
 
@@ -92,7 +92,7 @@ My daily workflow relies on orchestrating AI agents to push multiple fronts forw
 
 Hands-on challenges in offensive and defensive security: web, forensics, cracking, network, steganography, and more.
 
----
+<br>
 
 ## GitHub Stats
 
@@ -104,7 +104,7 @@ Hands-on challenges in offensive and defensive security: web, forensics, crackin
 
 </div>
 
----
+<br>
 
 <div align="center">
 
