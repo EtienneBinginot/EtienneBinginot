@@ -1,18 +1,17 @@
-<div align="center">
+<p align="center">
+  <b>Etienne Binginot</b><br>
+  Full-Stack Engineer | Agentic Development | DevSecOps
+</p>
 
-# Etienne Binginot
-
-**Full-Stack Engineer | Agentic Development | DevSecOps**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etienne-binginot/)
-[![Root-Me](https://img.shields.io/badge/Root--Me-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSIjOTFCMzAyIi8+PC9zdmc+)](https://www.root-me.org/EtienneB-763658?lang=fr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EtienneBinginot)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/etienne-binginot/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.root-me.org/EtienneB-763658?lang=fr"><img src="https://img.shields.io/badge/Root--Me-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSIjOTFCMzAyIi8+PC9zdmc+" alt="Root-Me"></a>
+  <a href="https://github.com/EtienneBinginot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 <br>
 
-<h2>About me</h2>
+**About me**
 
 Developer for **10 years**. I started in middle school building games on a Casio calculator in BASIC — a full RPG with a graphics engine, a Pokemon-like game, all on a 64x128 pixel screen. That's where it all began.
 
@@ -22,51 +21,42 @@ On the security side, I'm an active member of **Root-Me** (username **EtienneB**
 
 <br>
 
-<h2>Technical skills</h2>
+**Technical skills**
 
 <table>
 <tr>
 <td align="center" width="33%">
-
-<h3>Languages</h3>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
-
+<b>Languages</b><br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white" alt="OCaml">
 </td>
 <td align="center" width="33%">
-
-<h3>Frameworks & tools</h3>
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+<b>Frameworks & tools</b><br><br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </td>
 <td align="center" width="33%">
-
-<h3>AI & Agentic Dev</h3>
-
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Servers-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4285F4?style=flat-square&logo=google&logoColor=white)
-
+<b>AI & Agentic Dev</b><br><br>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI Agents">
+<img src="https://img.shields.io/badge/MCP_Servers-000000?style=flat-square&logo=anthropic&logoColor=white" alt="MCP Servers">
+<img src="https://img.shields.io/badge/Prompt_Engineering-4285F4?style=flat-square&logo=google&logoColor=white" alt="Prompt Engineering">
 </td>
 </tr>
 </table>
 
 <br>
 
-<h2>Agentic Development</h2>
+**Agentic Development**
 
 ```
   Architect  ──────>  AI Agents  ──────>  Code, Tests, Deploy
@@ -83,34 +73,26 @@ My daily workflow relies on orchestrating AI agents to push multiple fronts forw
 
 <br>
 
-<h2>Cybersecurity - Root-Me</h2>
+**Cybersecurity - Root-Me**
 
-<div align="center">
-
-![Root-Me Stats](https://root-me-diff.vercel.app/rm-gh?nickname=EtienneB-763658&gstats=show&style=dark)
-
-Active member of the Root-Me community
-
-</div>
+<p align="center">
+  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=EtienneB-763658&gstats=show&style=dark" alt="Root-Me Stats">
+  <br>
+  Active member of the Root-Me community
+</p>
 
 Hands-on challenges in offensive and defensive security: web, forensics, cracking, network, steganography, and more.
 
 <br>
 
-<h2>GitHub Stats</h2>
+**GitHub Stats**
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EtienneBinginot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBinginot&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EtienneBinginot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBinginot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
 
 <br>
 
-<div align="center">
-
-*Based in Rouen, France | Blue Soft | Always learning*
-
-</div>
+<p align="center"><i>Based in Rouen, France | Blue Soft | Always learning</i></p>
