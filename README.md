@@ -98,5 +98,3 @@
 </p>
 
 <br>
-
-<p align="center"><i>Based in Rouen, France | Blue Soft | Always learning</i></p>
