@@ -92,9 +92,9 @@
 <p><b>GitHub Stats</b></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EtienneBinginot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="./profile/stats.svg" alt="GitHub Stats">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtienneBinginot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="./profile/top-langs.svg" alt="Top Languages">
 </p>
 
 <br>
